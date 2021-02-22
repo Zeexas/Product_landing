@@ -180,7 +180,7 @@ form {
     z-index: 1;
     outline: 7px solid lightcyan;
     outline-offset: -7px;
-    box-shadow: 0 0 0 0 #333, 0 0 0 0 var(--font-color);
+    box-shadow: 0 0 0 0 var(--main-color), 0 0 0 0 var(--main-color);
     cursor: pointer;
     appearance: none;
     backface-visibility: hidden;
